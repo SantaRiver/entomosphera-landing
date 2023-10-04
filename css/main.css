@@ -1,0 +1,13 @@
+.upper-section {
+    background-image: url('../img/coleoptera.jpg');
+    background-repeat: no-repeat;
+    background-position: right, left;
+}
+
+.insect-card {
+}
+
+.insect-img {
+    height: 20vh;
+    object-fit: contain;
+}
